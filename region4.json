@@ -1,7 +1,7 @@
 {
     "type": "Topology",
     "objects": {
-        "TWN_adm2": {
+        "data": {
             "type": "GeometryCollection",
             "bbox": [
                 116.70999908447266,
